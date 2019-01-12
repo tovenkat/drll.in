@@ -97,7 +97,7 @@ class Layout extends React.Component {
                     marginLeft: rhythm(1),
                   }}
                 >
-                  Gatsbygram
+                  Drill.in
                 </span>
               </h1>
             </Link>
